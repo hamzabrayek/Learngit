@@ -1,2 +1,3 @@
 # Learngit
 i'm trying to learn git
+so i forked it and now i'm trying something ...
